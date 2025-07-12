@@ -29,7 +29,7 @@
 > A basic Java calculator with a clean interface. Good UI design practice.
 
 ### 🌐 [GAFA Website](https://github.com/noeltankeu/projet_GAFA)
-A modern website designed for a small Cameroonian startup, GAFA. Focused on branding, trust, and clear service display.
+> A modern website designed for a small Cameroonian startup, GAFA. Focused on branding, trust, and clear service display.
 
 ---
 
