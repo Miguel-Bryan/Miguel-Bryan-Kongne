@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bryan Kongne
 
-🎓 Junior Software Engineer | Java Developer | Problem Solver  
+🎓 Junior Software Engineer | Junior Java Developer | Problem Solver  
 🌱 Currently learning: Java, Spring Boot, SQL, Firebase, GitHub Actions  
 💡 Interested in: Building real-world applications for education & automation  
 📫 Reach me at: kongnebryan945@gmail.com
