@@ -28,10 +28,14 @@
 ### ➗ [Calculator App](https://github.com/Miguel-Bryan/Calculator-App)
 > A basic Java calculator with a clean interface. Good UI design practice.
 
-### 🌐 [GAFA Website](https://github.com/noeltankeu/projet_GAFA)
+###
 > A modern website designed for a small Cameroonian startup, GAFA. Focused on branding, trust, and clear service display.
 
 ---
+## 🧩 Contributions
+
+ ### 🌐 [GAFA Website](https://github.com/noeltankeu/projet_GAFA)
+ Contributed to the development of the pages 'About us' and 'Donate' in this collaborative project.
 
 ## 📈 GitHub Stats
 
