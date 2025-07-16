@@ -22,7 +22,7 @@
 ### 📅 [Timetable Management System](https://github.com/Miguel-Bryan/Timetable-Management-System)
 > A Java Swing GUI app that manages class schedules and teacher conflicts efficiently. Includes password reset and auto-detection of duplicate assignments.
 
-### 💰 [Expense Tracker System](https://github.com/your_username/expense-tracker-system)
+### 💰 [Expense Tracker System](https://github.com/Miguel-Bryan/expense-tracker-app)
 > Track income and expenses with monthly summaries. Great for personal finance. Includes categories.
 
 ### ➗ [Calculator App](https://github.com/Miguel-Bryan/Calculator-App)
